@@ -77,4 +77,5 @@ def index():
     return render_template('index.html')
 
 if __name__ == '__main__':
-    app.run(debug=True, host="0.0.0.0")
+    port = int(os.getenv("PORT", 5000)) # 获取环境变量 PORT，默认为 5000
+    app.run(debug=False, host="0.0.0.0", port=port)
