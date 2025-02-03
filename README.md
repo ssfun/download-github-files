@@ -10,6 +10,8 @@
 
 **隐私声明：** 本项目不会记录用户的任何信息，包括 GitHub 链接、Personal Access Token 以及下载的文件内容。所有操作均在本地完成，不存储任何数据。
 
+[DEMO](https://github.ssfun.nyc.mn)
+
 ## 功能特性
 
 *   **支持公开和私有仓库:** 可以下载公开和私有 GitHub 仓库的文件。
